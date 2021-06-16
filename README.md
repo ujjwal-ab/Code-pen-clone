@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # 🔲 CodePen Clone With React
 
-<p align="center">
+<p align="center" DEMO>
   <img src="https://github.com/ujjwal-ab/Code-pen-clone/blob/main/presentation/react-codepen-clone.gif"/>
 </p>
 <hr>
